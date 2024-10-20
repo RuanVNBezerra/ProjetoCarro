@@ -1,7 +1,5 @@
 ﻿//chamando a "PastaCarro" para o arquivo principal.
 using ProjetoCarro.PastaCarro;
-using System.Reflection;
-using System.Text.RegularExpressions;
 // nome do espaço principal.
 namespace ProjetoCarro;
 // projeto simples sobre um carro.
