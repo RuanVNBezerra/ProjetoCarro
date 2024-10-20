@@ -9,7 +9,7 @@ public class Carro
     private int atualVelocidade;
 
     public Carro(string marca, int ano, string modelo)
-    { // diferenciado para o compilador os atributos da Classe (private marca, etc...) dos parâmetros usados usando this.
+    { // diferenciando para o compilador os atributos da Classe (private marca, etc...) dos parâmetros usados usando this.
         this.marca = marca;
         this.ano = ano;
         this.modelo = modelo;
